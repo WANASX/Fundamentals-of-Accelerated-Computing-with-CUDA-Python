@@ -39,16 +39,11 @@ python histogram.py
 📂 Custom-CUDA-Kernels  
 │── Custom CUDA Kernels in Python with Numba.ipynb  → Main Jupyter Notebook with explanations & exercises  
 │── histogram.py  → Solution for the accelerated histogramming exercise  
-│── additional_exercise.py  → Additional Python files for other exercises  
-│── LICENSE  → License information  
 
 ## Certification
 
 After completing these exercises, a certificate of completion was awarded by NVIDIA Deep Learning Institute [My Certificate](https://learn.nvidia.com/certificates?id=foEkX986ROGs38OhPaBjvg). This repository documents the work and learning achieved during the course.
 
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for details.
 
 ## Acknowledgments
 
